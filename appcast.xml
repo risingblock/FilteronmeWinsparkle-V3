@@ -4,15 +4,15 @@
     <title>Filteronme updates</title>
     <language>en</language>
     <item>
-      <title>Filteronme 3.0.0</title>
-      <pubDate>Fri, 14 Aug 2026 03:46:22 +0000</pubDate>
-      <enclosure url="https://github.com/risingblock/FilteronmeWinsparkle-V3/releases/download/v3.0.0/Filteronme-3.0.0.msi"
-                 sparkle:version="3.0.0"
+      <title>Filteronme 3.0.1</title>
+      <pubDate>Fri, 14 Aug 2026 04:06:12 +0000</pubDate>
+      <enclosure url="https://github.com/risingblock/FilteronmeWinsparkle-V3/releases/download/v3.0.1/Filteronme-3.0.1.msi"
+                 sparkle:version="3.0.1"
                  sparkle:os="windows-x64"
-                 length="145915904"
+                 length="145920000"
                  type="application/octet-stream"
                  sparkle:installerArguments="/passive"
-                 sparkle:edSignature="C+4GdV04EY7k2uX2eGpMVodpdm/KX5BDFt4AB47t+T3ScQtY22eyDdHIdFF40YEEXgR0/8YZAw/CriE6BtNqDQ==" />
+                 sparkle:edSignature="qsXrzQQZSkDZJcH5wZ5qOzSm8ztFke33c5JJFUd/kzbxQ+0pQ+Hubetst9xN8iD8R5hFlBV4ngLEc470I9BbBQ==" />
     </item>
   </channel>
 </rss>
