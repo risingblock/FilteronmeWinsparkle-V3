@@ -5,14 +5,14 @@
     <language>en</language>
     <item>
       <title>Filteronme 3.0.0</title>
-      <pubDate>Fri, 14 Aug 2026 03:06:35 +0000</pubDate>
+      <pubDate>Fri, 14 Aug 2026 03:46:22 +0000</pubDate>
       <enclosure url="https://github.com/risingblock/FilteronmeWinsparkle-V3/releases/download/v3.0.0/Filteronme-3.0.0.msi"
                  sparkle:version="3.0.0"
                  sparkle:os="windows-x64"
-                 length="112590763"
+                 length="145915904"
                  type="application/octet-stream"
                  sparkle:installerArguments="/passive"
-                 sparkle:edSignature="Ikh/QM/vG0dOgPlV6zhV09Mup8ofdW0SVJ9CjVyY9rIwD6GCX6ynmVDcFiLuLUM8VSemNOu0J1H3qxT+sCH6Ag==" />
+                 sparkle:edSignature="C+4GdV04EY7k2uX2eGpMVodpdm/KX5BDFt4AB47t+T3ScQtY22eyDdHIdFF40YEEXgR0/8YZAw/CriE6BtNqDQ==" />
     </item>
   </channel>
 </rss>
